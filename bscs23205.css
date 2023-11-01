@@ -1,0 +1,24 @@
+.wrap
+    {
+    display : inline-block;
+    height : 70vh;
+    width : 100vw;
+}
+.text{
+    display: block;
+    font-style: italic;
+    color: whitesmoke;
+}
+.firstcake{
+    height: 550px;
+    width: 2000px;
+    background-color: white;
+    margin: 10px;
+    padding: 50px;
+}
+.empty{
+    height: 250px;
+    width: 2000px;
+    background-color: lightsalmon;
+    
+}
